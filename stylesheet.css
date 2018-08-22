@@ -109,3 +109,23 @@ background-color: white;
   color:black;
   font-size: 8px;
 }
+/*footer*/
+.Contact{
+  background-color:white;
+  height:140px;
+  width:100%;
+  text-align:center;
+}
+.Contact h1{
+  padding-top:70px;
+}
+/*Contact*/
+input,textarea{
+  display:block;
+  width: 500px;
+}
+.C{
+  width:500px;
+  display: block;
+  margin:0 auto;
+}
